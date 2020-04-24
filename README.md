@@ -29,4 +29,4 @@ ModalShow shows a modal. it takes an id of the modal you want to show
 ModalHide hides a modal. it takes an id of the modal you want to hide
 
 
-## Developed by maxcampbell at (maxcampbell.info)
+## Developed by maxcampbell at [maxcampbell.info](http://maxcampbell.info/).
