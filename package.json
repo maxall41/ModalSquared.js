@@ -1,0 +1,5 @@
+{
+  "scripts": { "start": "nodemon ModalSquared.js" },
+  "dependencies": {},
+  "devDependencies": {}
+}
