@@ -24,9 +24,9 @@ ModalSquared.js is a super small less than a 1kb library for showing and hiding 
 </html>
 ```
 ### ModalShow
-ModalShow shows a modal. it takes an id of the modal you want to show
+ModalShow shows a modal. it takes an id of the modal you want to show.
 ### ModalHide
-ModalHide hides a modal. it takes an id of the modal you want to hide
+ModalHide hides a modal. it takes an id of the modal you want to hide. Or use data-modal-hide on the button that you want to close the modal. data-modal-hide does not take any values.
 
 
 ## Developed by maxcampbell at [maxcampbell.info](http://maxcampbell.info/).
