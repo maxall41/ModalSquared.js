@@ -1,5 +1,5 @@
 # ModalSquared.js
-ModalSquared.js is a super small less than a 1kb library for showing and hiding modals.
+ModalSquared.js is a super small less than a 1.1kb library for showing and hiding modals.
 
 ## Documentation
 ### Note: every modal has to have the modal class!
