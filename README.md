@@ -40,3 +40,4 @@ ModalHide hides a modal. it takes the id of the modal you want to hide. Or use d
 v1.1.1
 + added blur effect
 + you now have to put the content of your page in a div with the class of .content
++ updated README
