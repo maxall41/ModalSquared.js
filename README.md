@@ -4,12 +4,9 @@
 ### Easy, Fast and simple modals.
 ModalSquared.js is a super small library for showing and hiding modals. It was specificly designed to show and hide bootstrap modals so i didnt have to use jquery and bootstrap's javascript but you can use it for anything. It's also less than 1kb!
 ## Setup
-#### 1. Download the js file
-#### 2. put the js file in your project directory
-#### 3. link js file to your html
-```
-<script src="ModalSquared.js"></script>
-```
+#### 1. Run npm install modalsquared
+#### 2. Add ```<script src="node_modules/modalsquared/ModalSquared.js"></script>``` and ```<script src="node_modules/modalsquared/ModalSquared.css"></script>``` to the head tag.
+#### 3. That's it you can now use ModalSquared
 ## Documentation
 #### Note: every modal has to have the modal class!
 ### Example
