@@ -5,7 +5,8 @@
 ![](https://img.shields.io/github/license/maxall41/ModalSquared.js)
 ![](portfolio.gif)
 ### Easy, Fast and simple modals.
-ModalSquared.js is a super small library for showing and hiding modals. It was specificly designed to show and hide bootstrap modals so i didnt have to use jquery and bootstrap's javascript but you can use it for anything. It's also less than 1kb!
+#### ModalSquared.js is a super small library for showing and hiding modals. It was specificly designed to show and hide bootstrap modals so i didnt have to use jquery and bootstrap's javascript but you can use it for anything. It's also less than 1kb!
+<br />
 :blue_book:
 [Learn More](https://modalsquared.github.io/)
 :blue_book:
