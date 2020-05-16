@@ -1,7 +1,7 @@
 # ModalSquared.js
 [![HitCount](http://hits.dwyl.com/maxall4/ModalSquaredjs.svg)](http://hits.dwyl.com/maxall4/ModalSquaredjs)
 ![](https://img.shields.io/npm/dw/modalsquared)
-![](https://img.shields.io/github/size/maxall41/ModalSquared.js/ModalSquared.js)
+![](https://img.shields.io/github/size/maxall41/ModalSquared.js/ModalSquared.min.js)
 ![](https://img.shields.io/github/license/maxall41/ModalSquared.js)
 ![](portfolio.gif)
 ### Easy, Fast and simple modals.
